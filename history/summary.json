@@ -22,19 +22,19 @@
     "url": "https://app.gruber.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-site",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 719,
-    "timeDay": 719,
-    "timeWeek": 719,
-    "timeMonth": 719,
-    "timeYear": 719,
+    "status": "up",
+    "uptime": "97.97%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
+    "time": 693,
+    "timeDay": 693,
+    "timeWeek": 693,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-10-20": 0
+      "2023-10-20": 28
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://app.gruber.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "status": "up",
+    "uptime": "97.97%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-10-20": 0
+      "2023-10-20": 28
     }
   }
 ]
