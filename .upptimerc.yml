@@ -5,8 +5,10 @@ repo: sites-status # The name of this repository
 sites:
   - name: Insive
     url: https://insive.cl
+  - name: Brandboost
+    url: https://brandboost.cl/
   - name: Blinhost
-    url: https://blinhost.cl
+    url: https://blinhost.cl/
   - name: Gruber Site
     url: https://app.gruber.cl/
   - name: Gruber API
