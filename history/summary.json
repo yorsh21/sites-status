@@ -58,10 +58,10 @@
     "url": "https://app.gruber.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 592,
@@ -70,6 +70,7 @@
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2023-11-15": 1,
       "2023-10-26": 19,
       "2023-10-20": 28
     }
@@ -79,10 +80,10 @@
     "url": "https://app.gruber.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 126,
@@ -91,6 +92,7 @@
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
+      "2023-11-15": 1,
       "2023-10-26": 19,
       "2023-10-20": 28
     }
