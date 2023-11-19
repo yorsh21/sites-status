@@ -13,7 +13,7 @@
     "time": 973,
     "timeDay": 505,
     "timeWeek": 1144,
-    "timeMonth": 973,
+    "timeMonth": 936,
     "timeYear": 973,
     "dailyMinutesDown": {}
   },
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-site",
     "status": "down",
-    "uptime": "89.45%",
+    "uptime": "86.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.87%",
-    "uptimeMonth": "89.28%",
-    "uptimeYear": "89.45%",
+    "uptimeWeek": "41.29%",
+    "uptimeMonth": "86.39%",
+    "uptimeYear": "86.97%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 514,
-    "timeMonth": 592,
+    "timeMonth": 582,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-11-19": 73,
+      "2023-11-19": 1342,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-api",
     "status": "down",
-    "uptime": "89.45%",
+    "uptime": "86.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.88%",
-    "uptimeMonth": "89.28%",
-    "uptimeYear": "89.45%",
+    "uptimeWeek": "41.29%",
+    "uptimeMonth": "86.39%",
+    "uptimeYear": "86.97%",
     "time": 126,
     "timeDay": 0,
     "timeWeek": 127,
-    "timeMonth": 126,
+    "timeMonth": 124,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-11-19": 73,
+      "2023-11-19": 1342,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
@@ -362,9 +362,9 @@
     "url": "https://correctm.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/correctm.cl.ico",
     "slug": "correctm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -373,16 +373,18 @@
     "timeWeek": 1112,
     "timeMonth": 1315,
     "timeYear": 1315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "Donbarry",
     "url": "https://donbarry.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/donbarry.cl.ico",
     "slug": "donbarry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -391,16 +393,18 @@
     "timeWeek": 1195,
     "timeMonth": 1355,
     "timeYear": 1355,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "Rememberyou",
     "url": "https://rememberyou.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/rememberyou.cl.ico",
     "slug": "rememberyou",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -409,7 +413,9 @@
     "timeWeek": 1218,
     "timeMonth": 1326,
     "timeYear": 1326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-19": 0
+    }
   },
   {
     "name": "Myathletecoach",
