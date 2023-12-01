@@ -1,7 +1,7 @@
 url: https://app.gruber.cl/
-status: up
-code: 200
-responseTime: 452
-lastUpdated: 2023-11-30T23:12:15.328Z
+status: down
+code: 502
+responseTime: 744
+lastUpdated: 2023-12-01T21:56:33.409Z
 startTime: 2023-10-19T03:29:45.889Z
 generator: Upptime <https://github.com/upptime/upptime>
