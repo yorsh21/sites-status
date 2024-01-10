@@ -114,19 +114,19 @@
     "url": "https://seguridadenlinea.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/seguridadenlinea.cl.ico",
     "slug": "seguridad-en-linea",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 214,
-    "timeWeek": 224,
-    "timeMonth": 288,
+    "timeDay": 262,
+    "timeWeek": 235,
+    "timeMonth": 289,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 5
     }
   },
   {
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2024-01-10": 1235,
+      "2024-01-10": 1240,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2024-01-10": 1235,
+      "2024-01-10": 1240,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -524,7 +524,7 @@
     "timeMonth": 0,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2024-01-10": 1235,
+      "2024-01-10": 1240,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -614,7 +614,7 @@
     "timeMonth": 0,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-01-10": 1235,
+      "2024-01-10": 1240,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
