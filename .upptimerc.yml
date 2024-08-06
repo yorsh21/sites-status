@@ -25,6 +25,10 @@ sites:
     url: https://escueladeseguridad.cl
   - name: Limpex
     url: https://limpex.cl
+  - name: Sportsalud
+    url: https://sportsalud.cl/
+  - name: Quiero Mi Masaje
+    url: https://quieromimasaje.cl/
   - name: Bettersport
     url: https://bettersport.cl
   - name: Lumisolar Chile
@@ -46,7 +50,7 @@ sites:
   - name: Renova Group
     url: https://renovagroup.cl
   - name: Messages API
-    url: http://159.89.100.96/ping
+    url: http://159.89.100.96:8000/ping
   - name: Patentes API
     url: https://oyster-app-8r5jo.ondigitalocean.app/ping
 
