@@ -1,29 +1,67 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: yorsh21 # Your GitHub organization or username, where this repository lives
+repo: sites-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Insive
+    url: https://insive.cl
+  - name: iLuch
+    url: https://iluch.cl/
+  - name: Blinhost
+    url: https://blinhost.cl/
+  - name: Gruber Site
+    url: https://gruber.cl/
+  - name: Gruber API
+    url: https://app.gruber.cl/
+  - name: Segurapp Site
+    url: https://segurapp.cl/
+  - name: Segurapp APP
+    url: http://app.segurapp.cl/
+  - name: Seguridad en Linea
+    url: https://seguridadenlinea.cl/
+  - name: Master Seguridad
+    url: https://masterseguridad.cl/
+  - name: Escuela de Seguridad
+    url: https://escueladeseguridad.cl/
+  - name: Limpex
+    url: https://limpex.cl/
+  - name: Bettersport
+    url: https://bettersport.cl/
+  - name: Lumisolar Chile
+    url: https://lumisolar.cl/
+  - name: Lumisolar Perú
+    url: https://lumisolar.pe/
+  - name: Genera Industrial
+    url: https://generaindustrial.cl/
+  - name: Aromalimeno
+    url: https://aromalimeno.cl/
+  - name: Papelera Rio Claro
+    url: https://papelerarioclaro.cl/
+  - name: Houselegal
+    url: https://houselegal.cl/
+  - name: Bioproject
+    url: https://bioproject.cl/
+  - name: Acho
+    url: https://acho.cl/
+  - name: Somevip
+    url: https://somevip.cl/
+  - name: Renova Group
+    url: https://renovagroup.cl/
+  - name: Messages API
+    url: http://159.89.100.96
+    port: 8000
     check: "tcp-ping"
-    ipv6: true
+
+assignees:
+  - yorsh21
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /sites-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Site Status Insive
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
