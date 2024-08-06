@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/iluch.com.ico",
     "slug": "i-luch",
     "status": "up",
-    "uptime": "6.08%",
-    "uptimeDay": "6.08%",
-    "uptimeWeek": "6.08%",
-    "uptimeMonth": "6.08%",
-    "uptimeYear": "6.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4590,
     "timeDay": 4590,
     "timeWeek": 4590,
     "timeMonth": 4590,
     "timeYear": 4590,
-    "dailyMinutesDown": {
-      "2024-08-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blinhost",
@@ -79,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gruber.cl.ico",
     "slug": "gruber-api",
     "status": "up",
-    "uptime": "5.48%",
-    "uptimeDay": "5.48%",
-    "uptimeWeek": "5.48%",
-    "uptimeMonth": "5.48%",
-    "uptimeYear": "5.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 601,
     "timeDay": 601,
     "timeWeek": 601,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {
-      "2024-08-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Segurapp Site",
@@ -398,7 +394,7 @@
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-08-06": 10
+      "2024-08-06": 11
     }
   },
   {
