@@ -418,19 +418,19 @@
     "url": "http://159.89.100.96:8000/ping",
     "icon": "https://icons.duckduckgo.com/ip3/159.89.100.96.ico",
     "slug": "messages-api",
-    "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.35%",
-    "time": 191,
-    "timeDay": 191,
-    "timeWeek": 191,
-    "timeMonth": 191,
-    "timeYear": 191,
+    "status": "up",
+    "uptime": "97.27%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
+    "time": 215,
+    "timeDay": 215,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-08-06": 17
+      "2024-08-06": 29
     }
   },
   {
