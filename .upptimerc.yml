@@ -6,51 +6,49 @@ sites:
   - name: Insive
     url: https://insive.cl
   - name: iLuch
-    url: https://iluch.cl/
+    url: https://iluch.com
   - name: Blinhost
-    url: https://blinhost.cl/
+    url: https://blinhost.cl
   - name: Gruber Site
-    url: https://gruber.cl/
+    url: https://gruber.cl
   - name: Gruber API
-    url: https://app.gruber.cl/
+    url: https://app.gruber.cl
   - name: Segurapp Site
-    url: https://segurapp.cl/
+    url: https://segurapp.cl
   - name: Segurapp APP
-    url: http://app.segurapp.cl/
+    url: http://app.segurapp.cl
   - name: Seguridad en Linea
-    url: https://seguridadenlinea.cl/
+    url: https://seguridadenlinea.cl
   - name: Master Seguridad
-    url: https://masterseguridad.cl/
+    url: https://masterseguridad.cl
   - name: Escuela de Seguridad
-    url: https://escueladeseguridad.cl/
+    url: https://escueladeseguridad.cl
   - name: Limpex
-    url: https://limpex.cl/
+    url: https://limpex.cl
   - name: Bettersport
-    url: https://bettersport.cl/
+    url: https://bettersport.cl
   - name: Lumisolar Chile
-    url: https://lumisolar.cl/
+    url: https://lumisolar.cl
   - name: Lumisolar Perú
-    url: https://lumisolar.pe/
+    url: https://lumisolar.pe
   - name: Genera Industrial
-    url: https://generaindustrial.cl/
+    url: https://generaindustrial.cl
   - name: Aromalimeno
-    url: https://aromalimeno.cl/
+    url: https://aromalimeno.cl
   - name: Papelera Rio Claro
-    url: https://papelerarioclaro.cl/
-  - name: Houselegal
-    url: https://houselegal.cl/
+    url: https://papelerarioclaro.cl
   - name: Bioproject
-    url: https://bioproject.cl/
+    url: https://bioproject.cl
   - name: Acho
-    url: https://acho.cl/
+    url: https://acho.cl
   - name: Somevip
-    url: https://somevip.cl/
+    url: https://somevip.cl
   - name: Renova Group
-    url: https://renovagroup.cl/
+    url: https://renovagroup.cl
   - name: Messages API
-    url: http://159.89.100.96
-    port: 8000
-    check: "tcp-ping"
+    url: http://159.89.100.96/ping
+  - name: Patentes API
+    url: https://oyster-app-8r5jo.ondigitalocean.app/ping
 
 assignees:
   - yorsh21
