@@ -1,7 +1,7 @@
 url: http://159.89.100.96:8000/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-12T16:58:56.014Z
+status: up
+code: 200
+responseTime: 361
+lastUpdated: 2024-08-12T18:30:29.717Z
 startTime: 2024-08-06T02:04:28.176Z
 generator: Upptime <https://github.com/upptime/upptime>
