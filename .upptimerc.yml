@@ -52,7 +52,7 @@ sites:
   - name: Messages API
     url: http://159.89.100.96:8000/ping
   - name: Patentes API
-    url: https://oyster-app-8r5jo.ondigitalocean.app/ping
+    url: https://patents.gruber.cl/ping
 
 assignees:
   - yorsh21
