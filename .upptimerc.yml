@@ -43,10 +43,6 @@ sites:
     url: https://papelerarioclaro.cl
   - name: Bioproject
     url: https://bioproject.cl
-  - name: Acho
-    url: https://acho.cl
-  - name: Somevip
-    url: https://somevip.cl
   - name: Renova Group
     url: https://renovagroup.cl
   - name: Messages API
