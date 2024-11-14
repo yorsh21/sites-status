@@ -1,7 +1,7 @@
 url: http://app.segurapp.cl
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2024-11-14T06:43:31.566Z
+status: down
+code: 502
+responseTime: 848
+lastUpdated: 2024-11-14T07:33:30.321Z
 startTime: 2024-08-06T02:03:49.075Z
 generator: Upptime <https://github.com/upptime/upptime>
