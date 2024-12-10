@@ -1,7 +1,7 @@
 url: https://bioproject.cl
-status: up
-code: 200
-responseTime: 949
-lastUpdated: 2024-12-09T23:08:32.695Z
+status: down
+code: 500
+responseTime: 1126
+lastUpdated: 2024-12-10T12:00:38.918Z
 startTime: 2024-08-06T02:04:13.622Z
 generator: Upptime <https://github.com/upptime/upptime>
