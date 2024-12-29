@@ -1,7 +1,7 @@
 url: https://messages-api.blinhost.com/ping
-status: up
-code: 200
-responseTime: 318
-lastUpdated: 2024-12-28T23:04:24.333Z
+status: down
+code: 502
+responseTime: 324
+lastUpdated: 2024-12-29T15:19:31.637Z
 startTime: 2024-08-06T02:04:28.176Z
 generator: Upptime <https://github.com/upptime/upptime>
