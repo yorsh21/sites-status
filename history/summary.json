@@ -164,7 +164,7 @@
     "uptime": "61.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.52%",
+    "uptimeMonth": "34.55%",
     "uptimeYear": "61.71%",
     "time": 494,
     "timeDay": 218,
@@ -309,19 +309,19 @@
     "url": "https://limpex.cl",
     "icon": "https://icons.duckduckgo.com/ip3/limpex.cl.ico",
     "slug": "limpex",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 2539,
-    "timeDay": 2293,
-    "timeWeek": 2603,
-    "timeMonth": 2677,
-    "timeYear": 2539,
+    "time": 2527,
+    "timeDay": 1675,
+    "timeWeek": 2363,
+    "timeMonth": 2609,
+    "timeYear": 2527,
     "dailyMinutesDown": {
-      "2025-02-02": 1
+      "2025-02-02": 12
     }
   },
   {
