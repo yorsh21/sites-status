@@ -10,10 +10,10 @@ sites:
   - name: Blinhost
     url: https://blinhost.cl
   - name: Gruber Site
-    url: https://gruber.cl
-  - name: Gruber API
-    url: https://app.gruber.cl
-  - name: Segurapp Site
+    url: https://gruserv.com
+  - name: Gruserv API
+    url: https://app.gruserv.com
+  - name: Gruserv Site
     url: https://segurapp.cl
   - name: Segurapp APP
     url: http://app.segurapp.cl
@@ -46,9 +46,9 @@ sites:
   - name: Renova Group
     url: https://renovagroup.cl
   - name: Messages API
-    url: https://messages-api.blinhost.com/ping
+    url: https://messages.insive.cl/ping
   - name: Patentes API
-    url: https://patents.gruber.cl/ping
+    url: https://patents.insive.cl/ping
 
 assignees:
   - yorsh21
