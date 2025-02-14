@@ -13,7 +13,7 @@ sites:
     url: https://gruserv.com
   - name: Gruserv API
     url: https://app.gruserv.com
-  - name: Gruserv Site
+  - name: Segurapp Site
     url: https://segurapp.cl
   - name: Segurapp APP
     url: http://app.segurapp.cl
