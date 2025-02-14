@@ -44,7 +44,7 @@
     "slug": "blinhost",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.83%",
@@ -116,9 +116,9 @@
     "slug": "segurapp-site",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
     "uptimeYear": "0.00%",
     "time": 3159,
     "timeDay": 0,
@@ -248,7 +248,7 @@
     "slug": "master-seguridad",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -268,7 +268,7 @@
     "slug": "escuela-de-seguridad",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -289,8 +289,8 @@
     "slug": "limpex",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2414,
@@ -299,7 +299,7 @@
     "timeMonth": 1918,
     "timeYear": 2414,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 1
     }
   },
   {
@@ -349,8 +349,8 @@
     "slug": "bettersport",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2881,
@@ -359,7 +359,7 @@
     "timeMonth": 3138,
     "timeYear": 2881,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 1
     }
   },
   {
@@ -369,8 +369,8 @@
     "slug": "lumisolar-chile",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3383,
@@ -379,7 +379,7 @@
     "timeMonth": 3461,
     "timeYear": 3383,
     "dailyMinutesDown": {
-      "2025-02-14": 0,
+      "2025-02-14": 1,
       "2024-12-25": 115
     }
   },
@@ -390,8 +390,8 @@
     "slug": "lumisolar-peru",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 2270,
@@ -400,7 +400,7 @@
     "timeMonth": 2424,
     "timeYear": 2270,
     "dailyMinutesDown": {
-      "2025-02-14": 0,
+      "2025-02-14": 1,
       "2024-12-26": 468,
       "2024-12-25": 209,
       "2024-12-10": 106
@@ -413,8 +413,8 @@
     "slug": "genera-industrial",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 604,
@@ -423,7 +423,7 @@
     "timeMonth": 739,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-02-14": 0,
+      "2025-02-14": 1,
       "2024-12-25": 159
     }
   },
@@ -434,8 +434,8 @@
     "slug": "aromalimeno",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1578,
@@ -444,7 +444,7 @@
     "timeMonth": 1446,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 1
     }
   },
   {
@@ -454,8 +454,8 @@
     "slug": "papelera-rio-claro",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
@@ -464,7 +464,7 @@
     "timeMonth": 271,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 1
     }
   },
   {
@@ -474,8 +474,8 @@
     "slug": "bioproject",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 953,
@@ -484,7 +484,7 @@
     "timeMonth": 1528,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-02-14": 0,
+      "2025-02-14": 1,
       "2024-12-25": 66,
       "2024-12-10": 165,
       "2024-08-15": 26
