@@ -1,7 +1,7 @@
 url: https://blinhost.cl
-status: up
-code: 200
-responseTime: 783
-lastUpdated: 2025-03-29T23:06:55.248Z
+status: down
+code: 503
+responseTime: 250
+lastUpdated: 2025-03-30T13:13:24.980Z
 startTime: 2024-08-06T02:03:37.985Z
 generator: Upptime <https://github.com/upptime/upptime>
