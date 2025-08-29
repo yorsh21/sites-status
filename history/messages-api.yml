@@ -1,7 +1,7 @@
 url: https://messages.insive.cl/ping
-status: down
-code: 502
-responseTime: 386
-lastUpdated: 2025-08-29T14:36:06.785Z
+status: up
+code: 200
+responseTime: 335
+lastUpdated: 2025-08-29T17:17:56.177Z
 startTime: 2024-08-06T02:04:28.176Z
 generator: Upptime <https://github.com/upptime/upptime>
