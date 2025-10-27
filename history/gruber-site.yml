@@ -1,7 +1,7 @@
 url: https://gruserv.com
-status: up
-code: 200
-responseTime: 1660
-lastUpdated: 2025-10-26T23:07:36.857Z
+status: down
+code: 500
+responseTime: 340
+lastUpdated: 2025-10-27T10:42:17.479Z
 startTime: 2024-08-06T02:03:38.931Z
 generator: Upptime <https://github.com/upptime/upptime>
