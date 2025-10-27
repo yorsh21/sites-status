@@ -1,7 +1,7 @@
 url: https://iluch.com
-status: up
-code: 200
-responseTime: 2616
-lastUpdated: 2025-10-26T23:07:34.173Z
+status: down
+code: 500
+responseTime: 338
+lastUpdated: 2025-10-27T10:42:12.928Z
 startTime: 2024-08-06T02:03:35.757Z
 generator: Upptime <https://github.com/upptime/upptime>
