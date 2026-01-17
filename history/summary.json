@@ -4,11 +4,11 @@
     "url": "https://insive.cl",
     "icon": "https://icons.duckduckgo.com/ip3/insive.cl.ico",
     "slug": "insive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "88.88%",
-    "uptimeWeek": "84.48%",
-    "uptimeMonth": "91.86%",
+    "uptimeDay": "88.27%",
+    "uptimeWeek": "84.39%",
+    "uptimeMonth": "91.87%",
     "uptimeYear": "99.32%",
     "time": 2088,
     "timeDay": 2383,
@@ -16,6 +16,7 @@
     "timeMonth": 2428,
     "timeYear": 2080,
     "dailyMinutesDown": {
+      "2026-01-17": 9,
       "2026-01-16": 160,
       "2026-01-15": 385,
       "2026-01-14": 157,
@@ -32,7 +33,7 @@
       "2026-01-03": 218,
       "2026-01-02": 72,
       "2026-01-01": 248,
-      "2025-12-31": 103
+      "2025-12-31": 87
     }
   },
   {
@@ -40,18 +41,19 @@
     "url": "https://iluch.com",
     "icon": "https://icons.duckduckgo.com/ip3/iluch.com.ico",
     "slug": "i-luch",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "89.03%",
-    "uptimeWeek": "84.67%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "88.45%",
+    "uptimeWeek": "84.59%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "99.32%",
     "time": 1952,
     "timeDay": 2508,
     "timeWeek": 2687,
     "timeMonth": 2509,
     "timeYear": 1998,
     "dailyMinutesDown": {
+      "2026-01-17": 8,
       "2026-01-16": 158,
       "2026-01-15": 381,
       "2026-01-14": 155,
@@ -68,7 +70,7 @@
       "2026-01-03": 215,
       "2026-01-02": 70,
       "2026-01-01": 247,
-      "2025-12-31": 229
+      "2025-12-31": 196
     }
   },
   {
@@ -76,18 +78,19 @@
     "url": "https://blinhost.cl",
     "icon": "https://icons.duckduckgo.com/ip3/blinhost.cl.ico",
     "slug": "blinhost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "85.01%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "88.64%",
+    "uptimeWeek": "84.93%",
+    "uptimeMonth": "91.68%",
+    "uptimeYear": "99.31%",
     "time": 1415,
     "timeDay": 2130,
     "timeWeek": 2611,
     "timeMonth": 2242,
     "timeYear": 1562,
     "dailyMinutesDown": {
+      "2026-01-17": 8,
       "2026-01-16": 156,
       "2026-01-15": 379,
       "2026-01-14": 153,
@@ -105,7 +108,7 @@
       "2026-01-02": 70,
       "2026-01-01": 243,
       "2025-12-31": 245,
-      "2025-12-30": 113
+      "2025-12-30": 82
     }
   },
   {
@@ -113,18 +116,19 @@
     "url": "https://gruserv.com",
     "icon": "https://icons.duckduckgo.com/ip3/gruserv.com.ico",
     "slug": "gruber-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.35%",
-    "uptimeWeek": "85.50%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "99.30%",
-    "time": 1700,
+    "uptimeDay": "88.83%",
+    "uptimeWeek": "85.43%",
+    "uptimeMonth": "91.72%",
+    "uptimeYear": "99.31%",
+    "time": 1699,
     "timeDay": 1387,
     "timeWeek": 1706,
     "timeMonth": 1871,
     "timeYear": 1584,
     "dailyMinutesDown": {
+      "2026-01-17": 7,
       "2026-01-16": 154,
       "2026-01-15": 374,
       "2026-01-14": 149,
@@ -142,7 +146,7 @@
       "2026-01-02": 67,
       "2026-01-01": 241,
       "2025-12-31": 242,
-      "2025-12-30": 185
+      "2025-12-30": 141
     }
   },
   {
@@ -151,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gruserv.com.ico",
     "slug": "gruserv-api",
     "status": "down",
-    "uptime": "58.76%",
+    "uptime": "58.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.76%",
+    "uptimeYear": "58.75%",
     "time": 310,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2026-01-17": 129,
+      "2026-01-17": 204,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
@@ -312,18 +316,19 @@
     "url": "https://segurapp.cl",
     "icon": "https://icons.duckduckgo.com/ip3/segurapp.cl.ico",
     "slug": "segurapp-site",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "89.49%",
-    "uptimeWeek": "83.78%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "83.71%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "99.21%",
     "time": 3110,
     "timeDay": 3834,
     "timeWeek": 3410,
     "timeMonth": 3333,
     "timeYear": 3094,
     "dailyMinutesDown": {
+      "2026-01-17": 7,
       "2026-01-16": 152,
       "2026-01-15": 462,
       "2026-01-14": 249,
@@ -342,7 +347,7 @@
       "2026-01-01": 238,
       "2025-12-31": 241,
       "2025-12-30": 185,
-      "2025-12-29": 86
+      "2025-12-29": 65
     }
   },
   {
@@ -355,7 +360,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.45%",
     "time": 458,
     "timeDay": 5412,
     "timeWeek": 1059,
@@ -397,11 +402,11 @@
     "url": "https://masterseguridad.cl",
     "icon": "https://icons.duckduckgo.com/ip3/masterseguridad.cl.ico",
     "slug": "master-seguridad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "89.66%",
-    "uptimeWeek": "85.86%",
-    "uptimeMonth": "91.75%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "85.79%",
+    "uptimeMonth": "91.78%",
     "uptimeYear": "99.31%",
     "time": 2307,
     "timeDay": 1906,
@@ -409,6 +414,7 @@
     "timeMonth": 2607,
     "timeYear": 2314,
     "dailyMinutesDown": {
+      "2026-01-17": 7,
       "2026-01-16": 149,
       "2026-01-15": 368,
       "2026-01-14": 143,
@@ -427,7 +433,7 @@
       "2026-01-01": 236,
       "2025-12-31": 236,
       "2025-12-30": 181,
-      "2025-12-29": 85
+      "2025-12-29": 64
     }
   },
   {
@@ -435,18 +441,19 @@
     "url": "https://escueladeseguridad.cl",
     "icon": "https://icons.duckduckgo.com/ip3/escueladeseguridad.cl.ico",
     "slug": "escuela-de-seguridad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "89.81%",
-    "uptimeWeek": "86.19%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "86.13%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "99.32%",
     "time": 2265,
     "timeDay": 3370,
     "timeWeek": 2438,
     "timeMonth": 2629,
     "timeYear": 2323,
     "dailyMinutesDown": {
+      "2026-01-17": 6,
       "2026-01-16": 146,
       "2026-01-15": 352,
       "2026-01-14": 142,
@@ -465,7 +472,7 @@
       "2026-01-01": 236,
       "2025-12-31": 234,
       "2025-12-30": 180,
-      "2025-12-29": 157
+      "2025-12-29": 120
     }
   },
   {
@@ -473,11 +480,11 @@
     "url": "https://limpex.cl",
     "icon": "https://icons.duckduckgo.com/ip3/limpex.cl.ico",
     "slug": "limpex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "89.97%",
-    "uptimeWeek": "86.38%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.32%",
     "time": 1366,
     "timeDay": 936,
@@ -485,6 +492,7 @@
     "timeMonth": 1151,
     "timeYear": 1066,
     "dailyMinutesDown": {
+      "2026-01-17": 6,
       "2026-01-16": 145,
       "2026-01-15": 348,
       "2026-01-14": 137,
@@ -504,7 +512,7 @@
       "2025-12-31": 229,
       "2025-12-30": 176,
       "2025-12-29": 142,
-      "2025-12-28": 46
+      "2025-12-28": 25
     }
   },
   {
@@ -512,18 +520,19 @@
     "url": "https://sportsalud.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/sportsalud.cl.ico",
     "slug": "sportsalud",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "90.13%",
-    "uptimeWeek": "86.71%",
-    "uptimeMonth": "91.85%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "86.66%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "99.33%",
     "time": 699,
     "timeDay": 1087,
     "timeWeek": 773,
     "timeMonth": 818,
     "timeYear": 668,
     "dailyMinutesDown": {
+      "2026-01-17": 5,
       "2026-01-16": 141,
       "2026-01-15": 346,
       "2026-01-14": 121,
@@ -543,7 +552,7 @@
       "2025-12-31": 212,
       "2025-12-30": 175,
       "2025-12-29": 138,
-      "2025-12-28": 122
+      "2025-12-28": 88
     }
   },
   {
@@ -551,11 +560,11 @@
     "url": "https://quieromimasaje.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/quieromimasaje.cl.ico",
     "slug": "quiero-mi-masaje",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "86.88%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "89.95%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "99.33%",
     "time": 2833,
     "timeDay": 3769,
@@ -563,6 +572,7 @@
     "timeMonth": 2846,
     "timeYear": 2776,
     "dailyMinutesDown": {
+      "2026-01-17": 5,
       "2026-01-16": 140,
       "2026-01-15": 343,
       "2026-01-14": 119,
@@ -582,7 +592,7 @@
       "2025-12-31": 208,
       "2025-12-30": 172,
       "2025-12-29": 138,
-      "2025-12-28": 119
+      "2025-12-28": 86
     }
   },
   {
@@ -615,11 +625,11 @@
     "url": "https://lumisolar.cl",
     "icon": "https://icons.duckduckgo.com/ip3/lumisolar.cl.ico",
     "slug": "lumisolar-chile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "90.43%",
-    "uptimeWeek": "87.05%",
-    "uptimeMonth": "92.03%",
+    "uptimeDay": "90.14%",
+    "uptimeWeek": "87.01%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "99.34%",
     "time": 3645,
     "timeDay": 3116,
@@ -627,6 +637,7 @@
     "timeMonth": 4044,
     "timeYear": 3713,
     "dailyMinutesDown": {
+      "2026-01-17": 4,
       "2026-01-16": 138,
       "2026-01-15": 340,
       "2026-01-14": 116,
@@ -646,7 +657,7 @@
       "2025-12-31": 206,
       "2025-12-30": 170,
       "2025-12-29": 135,
-      "2025-12-28": 142
+      "2025-12-28": 117
     }
   },
   {
@@ -654,18 +665,19 @@
     "url": "https://lumisolar.pe",
     "icon": "https://icons.duckduckgo.com/ip3/lumisolar.pe.ico",
     "slug": "lumisolar-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "90.58%",
-    "uptimeWeek": "87.21%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "99.34%",
-    "time": 2981,
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "87.17%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "99.35%",
+    "time": 2983,
     "timeDay": 4075,
     "timeWeek": 4234,
     "timeMonth": 3707,
     "timeYear": 3177,
     "dailyMinutesDown": {
+      "2026-01-17": 4,
       "2026-01-16": 135,
       "2026-01-15": 339,
       "2026-01-14": 116,
@@ -685,7 +697,7 @@
       "2025-12-31": 203,
       "2025-12-30": 168,
       "2025-12-29": 134,
-      "2025-12-28": 160
+      "2025-12-28": 139
     }
   },
   {
@@ -693,11 +705,11 @@
     "url": "https://generaindustrial.cl",
     "icon": "https://icons.duckduckgo.com/ip3/generaindustrial.cl.ico",
     "slug": "genera-industrial",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
     "time": 922,
     "timeDay": 1118,
@@ -705,6 +717,7 @@
     "timeMonth": 1284,
     "timeYear": 1012,
     "dailyMinutesDown": {
+      "2026-01-17": 3,
       "2026-01-16": 134,
       "2026-01-15": 334,
       "2026-01-14": 112,
@@ -725,7 +738,7 @@
       "2025-12-30": 165,
       "2025-12-29": 132,
       "2025-12-28": 157,
-      "2025-12-27": 49
+      "2025-12-27": 27
     }
   },
   {
@@ -733,18 +746,19 @@
     "url": "https://aromalimeno.cl",
     "icon": "https://icons.duckduckgo.com/ip3/aromalimeno.cl.ico",
     "slug": "aromalimeno",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "90.90%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "92.28%",
+    "uptimeDay": "90.70%",
+    "uptimeWeek": "87.69%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "99.36%",
-    "time": 1120,
+    "time": 1119,
     "timeDay": 400,
     "timeWeek": 818,
     "timeMonth": 1134,
     "timeYear": 994,
     "dailyMinutesDown": {
+      "2026-01-17": 3,
       "2026-01-16": 131,
       "2026-01-15": 333,
       "2026-01-14": 111,
@@ -765,7 +779,7 @@
       "2025-12-30": 164,
       "2025-12-29": 130,
       "2025-12-28": 154,
-      "2025-12-27": 48
+      "2025-12-27": 26
     }
   },
   {
@@ -773,18 +787,19 @@
     "url": "https://papelerarioclaro.cl",
     "icon": "https://icons.duckduckgo.com/ip3/papelerarioclaro.cl.ico",
     "slug": "papelera-rio-claro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "90.90%",
+    "uptimeWeek": "88.16%",
+    "uptimeMonth": "92.40%",
+    "uptimeYear": "99.37%",
     "time": 503,
     "timeDay": 301,
     "timeWeek": 986,
     "timeMonth": 814,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2026-01-17": 2,
       "2026-01-16": 129,
       "2026-01-15": 328,
       "2026-01-14": 107,
@@ -806,7 +821,7 @@
       "2025-12-29": 129,
       "2025-12-28": 150,
       "2025-12-27": 63,
-      "2025-12-26": 40
+      "2025-12-26": 21
     }
   },
   {
@@ -814,18 +829,19 @@
     "url": "https://bioproject.cl",
     "icon": "https://icons.duckduckgo.com/ip3/bioproject.cl.ico",
     "slug": "bioproject",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "88.14%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "99.36%",
-    "time": 1667,
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "88.58%",
+    "uptimeWeek": "88.12%",
+    "uptimeMonth": "92.44%",
+    "uptimeYear": "99.37%",
+    "time": 1668,
     "timeDay": 1960,
     "timeWeek": 1864,
     "timeMonth": 1988,
     "timeYear": 1861,
     "dailyMinutesDown": {
+      "2026-01-17": 2,
       "2026-01-16": 162,
       "2026-01-15": 328,
       "2026-01-14": 106,
@@ -847,7 +863,7 @@
       "2025-12-29": 126,
       "2025-12-28": 147,
       "2025-12-27": 62,
-      "2025-12-26": 78
+      "2025-12-26": 40
     }
   },
   {
@@ -855,18 +871,19 @@
     "url": "https://renovagroup.cl",
     "icon": "https://icons.duckduckgo.com/ip3/renovagroup.cl.ico",
     "slug": "renova-group",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "91.38%",
-    "uptimeWeek": "88.65%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "88.64%",
+    "uptimeMonth": "92.54%",
+    "uptimeYear": "99.38%",
     "time": 2024,
     "timeDay": 2459,
     "timeWeek": 2197,
     "timeMonth": 2163,
     "timeYear": 2023,
     "dailyMinutesDown": {
+      "2026-01-17": 2,
       "2026-01-16": 125,
       "2026-01-15": 323,
       "2026-01-14": 103,
@@ -888,7 +905,7 @@
       "2025-12-29": 125,
       "2025-12-28": 144,
       "2025-12-27": 60,
-      "2025-12-26": 99
+      "2025-12-26": 76
     }
   },
   {
@@ -941,14 +958,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.65%",
+    "uptimeYear": "61.63%",
     "time": 385,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-01-17": 131,
+      "2026-01-17": 206,
       "2026-01-16": 1440,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
