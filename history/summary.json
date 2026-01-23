@@ -116,18 +116,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gruserv.com.ico",
     "slug": "gruber-site",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "85.60%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.50%",
+    "uptimeDay": "90.50%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "91.25%",
+    "uptimeYear": "99.27%",
     "time": 1682,
     "timeDay": 1248,
     "timeWeek": 1336,
     "timeMonth": 1730,
     "timeYear": 1556,
     "dailyMinutesDown": {
-      "2026-01-22": 146,
+      "2026-01-22": 137,
       "2026-01-21": 134,
       "2026-01-20": 267,
       "2026-01-19": 236,
@@ -145,7 +145,7 @@
       "2026-01-07": 189,
       "2026-01-06": 165,
       "2026-01-05": 171,
-      "2026-01-04": 73
+      "2026-01-04": 109
     }
   },
   {
@@ -154,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.gruserv.com.ico",
     "slug": "gruserv-api",
     "status": "down",
-    "uptime": "57.75%",
+    "uptime": "57.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.75%",
+    "uptimeYear": "57.73%",
     "time": 310,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2026-01-22": 1429,
+      "2026-01-23": 143,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
@@ -322,9 +323,9 @@
     "slug": "segurapp-site",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "86.04%",
-    "uptimeMonth": "90.46%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "86.13%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "99.15%",
     "time": 3133,
     "timeDay": 2740,
@@ -332,7 +333,7 @@
     "timeMonth": 3382,
     "timeYear": 3123,
     "dailyMinutesDown": {
-      "2026-01-22": 129,
+      "2026-01-22": 120,
       "2026-01-21": 133,
       "2026-01-20": 266,
       "2026-01-19": 233,
@@ -351,7 +352,7 @@
       "2026-01-06": 162,
       "2026-01-05": 166,
       "2026-01-04": 279,
-      "2026-01-03": 47
+      "2026-01-03": 75
     }
   },
   {
@@ -360,7 +361,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.segurapp.cl.ico",
     "slug": "segurapp-app",
     "status": "up",
-    "uptime": "87.05%",
+    "uptime": "87.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -403,9 +404,9 @@
     "slug": "master-seguridad",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "91.16%",
-    "uptimeWeek": "86.34%",
-    "uptimeMonth": "91.01%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "86.42%",
+    "uptimeMonth": "90.95%",
     "uptimeYear": "99.25%",
     "time": 2334,
     "timeDay": 2201,
@@ -413,7 +414,7 @@
     "timeMonth": 2663,
     "timeYear": 2349,
     "dailyMinutesDown": {
-      "2026-01-22": 127,
+      "2026-01-22": 119,
       "2026-01-21": 133,
       "2026-01-20": 263,
       "2026-01-19": 230,
@@ -432,7 +433,7 @@
       "2026-01-06": 159,
       "2026-01-05": 151,
       "2026-01-04": 276,
-      "2026-01-03": 74
+      "2026-01-03": 107
     }
   },
   {
@@ -442,9 +443,9 @@
     "slug": "escuela-de-seguridad",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "91.28%",
-    "uptimeWeek": "86.63%",
-    "uptimeMonth": "91.00%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "86.71%",
+    "uptimeMonth": "90.97%",
     "uptimeYear": "99.25%",
     "time": 2261,
     "timeDay": 1969,
@@ -452,7 +453,7 @@
     "timeMonth": 2509,
     "timeYear": 2320,
     "dailyMinutesDown": {
-      "2026-01-22": 126,
+      "2026-01-22": 118,
       "2026-01-21": 130,
       "2026-01-20": 263,
       "2026-01-19": 228,
@@ -471,7 +472,7 @@
       "2026-01-06": 158,
       "2026-01-05": 149,
       "2026-01-04": 273,
-      "2026-01-03": 149
+      "2026-01-03": 173
     }
   },
   {
@@ -949,8 +950,7 @@
       "2025-03-26": 117,
       "2025-03-25": 3,
       "2025-02-12": 619,
-      "2025-01-24": 107,
-      "2025-01-23": 742
+      "2025-01-24": 107
     }
   },
   {
@@ -959,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/patents.insive.cl.ico",
     "slug": "patentes-api",
     "status": "down",
-    "uptime": "71.32%",
+    "uptime": "71.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.03%",
+    "uptimeYear": "60.00%",
     "time": 382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2026-01-22": 1430,
+      "2026-01-23": 144,
+      "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
